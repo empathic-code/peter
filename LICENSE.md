@@ -14,7 +14,7 @@ You SHOULD
 
 When you run the software, you should give credit and clearly indicate what alterations you made to the software, so that your claims are reproducible. If you publish your findings in a scientific paper, blog, website, you should link to this website and use the following citation:
 
- > Hofmeister, J. C. N. (2015). *Influence of identifier length and semantics on the comprehensibility of source code* (bachelor's thesis), Ruprecht-Karls-Universität, Heidelberg, Germany
+ > Hofmeister, J., Siegmund, J., & Holt, D. V. (2017). Shorter identifier names take longer to comprehend. In IEEE Proceedings of 24th International Conference on Software Analysis, Evolution, and Reengineering (SANER), February 20-24, 2017 (pp. 217–227). Klagenfurt, Austria, DOI: https://doi.org/10.1109/SANER.2017.7884623
 
 You MUST
 --------
